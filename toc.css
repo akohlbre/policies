@@ -35,3 +35,9 @@
     overflow: hidden;
     transition: max-height 0.2s ease-out;
 }
+
+.box {
+    width: 300px;
+    padding: 10px;
+    margin: 0;
+}
