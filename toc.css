@@ -37,7 +37,8 @@
 }
 
 .box {
-    width: 300px;
+    width: 200px;
     padding: 10px;
     margin: 0;
+    float: left;
 }
